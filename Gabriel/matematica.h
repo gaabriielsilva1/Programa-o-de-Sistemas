@@ -1,0 +1,1 @@
+float calcula_media(float numeros[], int qtd);
